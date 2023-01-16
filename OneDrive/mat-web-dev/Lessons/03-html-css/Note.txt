@@ -1,0 +1,112 @@
+# HTML TAG/DAY 3
+
+
+--- 1 ------
+
+CSS - Cascading Style Sheet
+
+Geschichte / History:
+
+Erfunden von Håkon Wium Lie in October 1994.
+
+
+- https://www.w3.org/Style/CSS20/history.html
+- https://youtu.be/LeC26IO1WV8
+
+
+
+
+
+What is CSS?
+
+CSS is the language we use to style a Web page.
+
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+- External stylesheets are stored in CSS files
+
+
+https://www.w3schools.com/css/css_intro.asp
+
+
+--- 3 ------
+
+Using CSS
+
+CSS can be added to HTML documents in 3 ways:
+- Inline - by using the style attribute inside HTML elements
+- Internal - by using a <style> element in the <head> section
+- External - by using a <link> element to link to an external CSS file
+
+https://www.w3schools.com/html/html_css.asp
+
+
+
+
+
+--- 4 ------
+
+
+## CSS Selectors
+
+A CSS selector selects the HTML element(s) you want to style.
+
+CSS selectors are used to "find" (or select) the HTML elements you want to style.
+
+We can divide CSS selectors into five categories:
+
+- Simple selectors (select elements based on name, id, class)
+-  selectors (select elements based on a specific relationship between them)
+- Pseudo-class selectors (select elements based on a certain state)
+- Pseudo-elements selectors (select and style a part of an element)
+- Attribute selectors (select elements based on an attribute or attribute value)
+- This page will explain the most basic CSS selectors.
+
+CSS Selektoren/Selectors:
+    - https://www.w3schools.com/cssref/css_selectors.asp
+    - https://developer.mozilla.org/de/docs/Learn/CSS/Building_blocks/Selectors
+
+CSS Kombinator/Combinator:
+    - https://www.w3schools.com/css/css_combinators.asp
+    - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
+
+
+
+
+
+--- 5 ------
+
+## CSS Good To Know
+
+- Hierachy, specificity
+- Inheritance
+- DRY, don't repeat yourself
+
+
+
+
+
+--- 6 ------
+
+## WICHTIG / IMPORTANT
+
+
+HTML Validator:
+    - https://validator.w3.org/#validate_by_input
+
+CSS Validator:
+    - https://jigsaw.w3.org/css-validator/#validate_by_input
+
+
+W3School Documentation:
+    - https://www.w3schools.com/html/
+
+MDN (mozilla developer network) Documentation:
+    - https://developer.mozilla.org/de/docs/Web/HTML
+
+
+VSCode Shortcuts:
+    - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+    - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+    - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf

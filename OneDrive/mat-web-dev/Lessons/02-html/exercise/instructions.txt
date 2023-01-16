@@ -1,0 +1,15 @@
+Create a file named lists.html​ under the new folder.
+
+This file should include the basic HTML structure (boilerplate) 
+(with the ! shortcut).
+
+Add one unordered list with items you would need to buy 
+to make your favorite recipe.
+
+Add one ordered list with the instructions to make that recipe. 
+
+1
+Add an image of that food under the recipe.
+
+Make  sure that the image can be clicked on to open a
+website in a new tab with a similar recipe.

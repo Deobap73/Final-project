@@ -1,0 +1,9 @@
+Create a file named index.html​ under the new folder.
+
+This file should include the basic HTML structure (boilerplate) (with the ! shortcut).
+Choose a topic for your exercise.
+Change the title in the head element according to your topic.
+Add the most important heading.
+Add two short paragraphs.
+Link a website related to your topic below the paragraphs. 
+Add one image related to your topic above the paragraphs.
