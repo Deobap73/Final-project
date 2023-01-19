@@ -1,0 +1,184 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  height: 100%;
+}
+
+/* <!-- NAVIGATION BAR: --> */
+.main-menu {
+  background-color: white;
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  padding: 50px;
+  margin: 0;
+  justify-content: center;
+}
+
+.logo {
+  width: 10px;
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+}
+
+.main-menu li a {
+  color: #cc9900;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0px 80px;
+}
+
+/* <!-- main: --> */
+
+.contact-us {
+  min-height: 10vh;
+  display: flex;
+}
+
+.image img {
+  width: 400px;
+  margin-left: 180px;
+}
+
+.contact-2 {
+  font-weight: bold;
+  margin-left: 200px;
+  margin-bottom: 50px;
+}
+.contact-2 h2 {
+  font-size: 15px;
+}
+
+.contact-2 {
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.color {
+  color: #cc9900;
+}
+
+.contact-3 {
+  display: flex;
+  margin-left: 200px;
+}
+.contact-3 h5 {
+  font-weight: bold;
+}
+
+.contact-4 h4,
+h5,
+h6 {
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
+.contact-5 h5,
+h6 {
+  margin-left: 90px;
+}
+
+/* <!-- social networks --> */
+
+.main-contact {
+  display: grid;
+}
+
+/* .main-contact ul {
+  margin-top: -60px;
+} */
+
+.main-contact h2 {
+  font-weight: bold;
+}
+
+.main-contact ul li a {
+  border: 1px solid #cc9900;
+  background-color: white;
+  border-radius: 40%;
+  padding: 2px;
+  margin: 5px;
+  font-size: 20px;
+  color: #cc9900;
+}
+
+.main-contact ul li a:hover {
+  color: white;
+  background-color: #cc9900;
+}
+
+/* contact us */
+
+.inquiry-1{
+  min-height: 10vh;
+  display: flex;
+}
+
+.inquiry-2{
+  width: 200px;
+  margin-left: 180px;
+  margin-bottom: 250px;
+}
+
+.inquiry-3{
+  display: flex;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.inquiry-3 h3, h4{
+  font-size: 55px;
+  margin-right: 5px;
+  margin-bottom: 30px;
+}
+
+.inquiry-3 h4{
+  color: #cc9900;
+}
+
+.inquiry-2 p{
+  width: 500px;
+}
+
+
+
+
+/* form */
+form {
+  width: 20%;
+  /* padding: 150px; */
+  margin: 0 auto;
+}
+
+label {
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #cc9900;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
